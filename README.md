@@ -43,18 +43,33 @@ Crafts and furnace recipes are not listed here yet, they can be seen with the cr
 # Grinder recipes
 
 Iron Lump	->	2 Steel Dust
+
 Gold Lump	->	2 Gold Dust
+
 Tin Lump	->	2 Tin Dust
+
 Copper Lump	->	2 Copper Dust
+
 Steel Ingot	->	Steel Dust
+
 Gold Ingot	->	Gold Dust
+
 Tin Ingot	->	Tin Dust
+
 Copper Ingot	->	Copper Dust
+
 Energium Ingot	->	Energium Dust
+
 Cobblestone	->	Gravel
+
 Gravel	->	Sand
+
 Mese Crystal	->	Mese Dust
+
 Ice	->	Snow Block
+
 Silver Lump	->	2 Silver Dust
+
 Silver Ingot	->	Silver Dust
+
 Wheat	->	Flour
