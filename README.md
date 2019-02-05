@@ -105,3 +105,29 @@ Cotton	->	Compost
 Compost	->	Cell With Biomix
 
 Apple	->	Cell with Apple Juice
+
+# Centrifuge recipes
+
+Cell With Biomix	-> Cell With Biofuel
+
+tech:iron_mix_cell	-> tech:steel_dust
+
+centrifuge:	tech:gold_mix_cell	-> tech:gold_dust
+
+centrifuge:	tech:tin_mix_cell	-> tech:tin_dust
+
+centrifuge:	tech:copper_mix_cell	-> tech:copper_dust
+
+centrifuge:	tech:silver_mix_cell	-> tech:silver_dust
+
+centrifuge:	group:sand	-> default:clay_lump	with chance	0.25
+
+centrifuge:	default:leaves	-> default:sapling	with chance	0.05
+
+centrifuge:	default:jungleleaves	-> default:junglesapling	with chance	0.05
+
+centrifuge:	default:pine_needles	-> default:pine_sapling	with chance	0.05
+
+centrifuge:	default:acacia_leaves	-> default:acacia_sapling	with chance	0.05
+
+centrifuge:	default:aspen_leaves	-> default:aspen_sapling	with chance	0.05
