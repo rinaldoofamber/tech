@@ -73,3 +73,21 @@ Silver Lump	->	2 Silver Dust
 Silver Ingot	->	Silver Dust
 
 Wheat	->	Flour
+
+# Shaper recipes
+
+Steel Ingot	->	Components
+
+Copper Ingot	->	Micro Wires
+
+Bronze Ingot	->	Bronze Components
+
+Tin Ingot	->	Micro Tubes
+
+Mese Crystal	->	4 Micro Mesas
+
+# Freezer recipes
+
+Cell With Lava	->	Obsidian
+
+Cell With Water	->	Ice
