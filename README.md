@@ -171,3 +171,17 @@ Tin Lump	->	5 Rich Tin Ore
 Copper Lump	->	5 Rich Copper Ore
 
 Silver Lump	->	5 Rich Silver Ore
+
+# Pump
+
+Put empty cells in the lleft slot of gui. The pump will fill them with a liquid wwhile absorbing source blocks under itself.
+
+# Comments
+
+Silver can be only from the "sorcery" mod.
+All these machines require energy.
+To give a machine energy, connect it to a generator, advanced generator, creative generator, diamond destructurizer or solar panel by wires.
+To charge batbox, place power input between wire and batbox.
+To discharge batbox, place power output between wire and batbox.
+Sqeezer needs empty cells in the bottom slot of gui.
+Enricher needs compost in the bottom slot of gui.
