@@ -110,27 +110,27 @@ Apple	->	Cell with Apple Juice
 
 Cell With Biomix	-> Cell With Biofuel
 
-tech:iron_mix_cell	-> tech:steel_dust
+Cell With Iron Mix	-> Steel Dust
 
-centrifuge:	tech:gold_mix_cell	-> tech:gold_dust
+Cell With Gold Mix	-> Gold Dust
 
-centrifuge:	tech:tin_mix_cell	-> tech:tin_dust
+Cell With Tin Mix	-> Tin Dust
 
-centrifuge:	tech:copper_mix_cell	-> tech:copper_dust
+Cell With Copper Mix	-> Copper Dust
 
-centrifuge:	tech:silver_mix_cell	-> tech:silver_dust
+Cell With Silver Mix	-> Silver Dust
 
-centrifuge:	group:sand	-> default:clay_lump	with chance	0.25
+sand (or silver sand, or desert sand...)	-> default:clay_lump	with chance	0.25
 
-centrifuge:	default:leaves	-> default:sapling	with chance	0.05
+Aple Tree Leaves	-> Apple Tree Sapling	with chance	0.05
 
-centrifuge:	default:jungleleaves	-> default:junglesapling	with chance	0.05
+Jungle Leaves	-> Jungle Sapling	with chance	0.05
 
-centrifuge:	default:pine_needles	-> default:pine_sapling	with chance	0.05
+Pine Needles	-> Pine Sapling	with chance	0.05
 
-centrifuge:	default:acacia_leaves	-> default:acacia_sapling	with chance	0.05
+Acacia Leaves	-> Acacia Sapling	with chance	0.05
 
-centrifuge:	default:aspen_leaves	-> default:aspen_sapling	with chance	0.05
+Aspen Leaves	-> Aspen Sapling	with chance	0.05
 
 # Purifier recipes
 
@@ -153,3 +153,21 @@ Rich Tin Ore	->	1 Cell With Tin Mix
 Rich Copper Ore	->	1 Cell With Copper Mix
 
 Rich Silver Ore	->	1 Cell With Silver Mix
+
+# Coke furnace recipes
+
+Coal Lump	->	Coke Coal
+
+Tree (of any type)	->	Coal Lump
+
+# Enricher recipes
+
+Iron Lump	->	5 Rich Iron Ore
+
+Gold Lump	->	5 Rich Gold Ore
+
+Tin Lump	->	5 Rich Tin Ore
+
+Copper Lump	->	5 Rich Copper Ore
+
+Silver Lump	->	5 Rich Silver Ore
