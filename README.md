@@ -91,3 +91,17 @@ Mese Crystal	->	4 Micro Mesas
 Cell With Lava	->	Obsidian
 
 Cell With Water	->	Ice
+
+# Composer recipes
+
+Leaves	->	Compost
+
+Wheat	->	Compost
+
+Cotton	->	Compost
+
+# Sqeezer recipes
+
+Compost	->	Cell With Biomix
+
+Apple	->	Cell with Apple Juice
