@@ -131,3 +131,25 @@ centrifuge:	default:pine_needles	-> default:pine_sapling	with chance	0.05
 centrifuge:	default:acacia_leaves	-> default:acacia_sapling	with chance	0.05
 
 centrifuge:	default:aspen_leaves	-> default:aspen_sapling	with chance	0.05
+
+# Purifier recipes
+
+Iron Lump	->	3 Cell With Iron Mix
+
+Gold Lump	->	3 Cell With Gold Mix
+
+Tin Lump	->	3 Cell With Tin Mix
+
+Copper Lump	->	3 Cell With Copper Mix
+
+Silver Lump	->	3 Cell With Silver Mix
+
+Rich Iron Ore	->	1 Cell With Iron Mix
+
+Rich Gold Ore	->	1 Cell With Gold Mix
+
+Rich Tin Ore	->	1 Cell With Tin Mix
+
+Rich Copper Ore	->	1 Cell With Copper Mix
+
+Rich Silver Ore	->	1 Cell With Silver Mix
