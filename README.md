@@ -35,3 +35,11 @@ I prefer to be called Rinaldo of Amber.
 tech code by rinaldoofamber is licensed under a Creative Commons Attribution 4.0 International License.
 
 tech assets by rinaldoofamber are licensed under a Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.
+
+# Crafts
+
+Crafts and furnace recipes are not listed here yet, they can be seen with the crafting guide mod.
+
+Grinder recipes:
+
+
